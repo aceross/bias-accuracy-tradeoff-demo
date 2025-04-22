@@ -1,7 +1,7 @@
 
 # Monitoring Plan Template
 
-## 📘 How to Use This Template
+## How to Use This Template
 
 This document provides a structured format for monitoring fairness performance in regulated AI systems.
 It is aligned with Article 61 of the EU AI Act and supports internal or external conformity documentation.
@@ -11,7 +11,7 @@ Each section includes:
 - **Tables** for recurring evaluation and response planning
 - A **change log** for edit accountability
 
-For each table, add one row per monitored metric, trigger condition, or responsible party.
+Add one row per monitored metric, trigger condition, or responsible party for each table.
 Fields marked with “[e.g.]” are illustrative and should be replaced.
 
 ---
@@ -67,7 +67,7 @@ Describe what happens if thresholds are breached.
 ---
 
 ## 8. Change Log
-Any changes to the document should be recorded and attributed to an individual. Ideally, the changes in the document should be version controlled (e.g., using git or similar). An example of an entry is provided below.
+Any changes to the document should be recorded and attributed to an individual. Ideally, the changes in the document should be version-controlled (e.g., using git or similar). An example of an entry is provided below.
 
 | Date       | Edited By         | Change Summary                                 | Review Status |
 |------------|-------------------|------------------------------------------------|----------------|
