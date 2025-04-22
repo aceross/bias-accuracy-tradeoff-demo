@@ -1,4 +1,5 @@
 # Bias–Accuracy Trade-off Demonstrator
+[![DOI](https://zenodo.org/badge/970964930.svg)](https://doi.org/10.5281/zenodo.15265198)
 
 ## Overview
 
