@@ -1,7 +1,7 @@
 
 # Trade-off Log Usage Guide
 
-This guide explains how to complete the trade-off log template, which is used to document fairness–accuracy trade-offs in AI systems subject to regulatory oversight (e.g., the EU AI Act, ISO/IEC 42001).
+This guide explains how to complete the trade-off log template, which documents fairness–accuracy trade-offs in AI systems subject to regulatory oversight (e.g., the EU AI Act, ISO/IEC 42001).
 
 The log supports internal justification, conformity documentation, and reproducibility of mitigation decisions.
 
