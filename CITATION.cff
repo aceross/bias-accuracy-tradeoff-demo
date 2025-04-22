@@ -9,6 +9,7 @@ authors:
 version: "1.0"
 date-released: 2025-04-22
 repository-code: https://github.com/aceross/bias-accuracy-tradeoff-demo
+doi: 10.5281/zenodo.15265199
 license: "MIT"
 keywords:
   - fairness
